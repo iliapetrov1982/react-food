@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iliapetrov1982/react-food/static/css/main.99cb2ec6.css",
+    "main.js": "/iliapetrov1982/react-food/static/js/main.de7fcd37.js",
+    "index.html": "/iliapetrov1982/react-food/index.html",
+    "main.99cb2ec6.css.map": "/iliapetrov1982/react-food/static/css/main.99cb2ec6.css.map",
+    "main.de7fcd37.js.map": "/iliapetrov1982/react-food/static/js/main.de7fcd37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99cb2ec6.css",
+    "static/js/main.de7fcd37.js"
+  ]
+}
